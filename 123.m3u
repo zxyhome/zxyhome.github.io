@@ -1,0 +1,17 @@
+#EXTM3U
+#EXTINF:-1,CCTV1
+http://nas.tuyuannet.cn:8800/rtp/239.37.0.008:5540
+#EXTINF:-1,CCTV2
+http://nas.tuyuannet.cn:8800/rtp/239.37.0.003:5540
+#EXTINF:-1,CCTV3,
+http://nas.tuyuannet.cn:8800/rtp/239.37.0.231:5540
+#EXTINF:-1,CCTV5,
+http://nas.tuyuannet.cn:8800/rtp/239.37.0.232:5540
+#EXTINF:-1,CCTV6,
+http://nas.tuyuannet.cn:8800/rtp/239.37.0.233:5540
+#EXTINF:-1,CCTV8,
+http://nas.tuyuannet.cn:8800/rtp/239.37.0.234:5540
+#EXTINF:-1,CCTV10,
+http://nas.tuyuannet.cn:8800/rtp/239.37.0.007:5540
+#EXTINF:-1,CCTV12,
+http://nas.tuyuannet.cn:8800/rtp/239.37.0.006:5540
